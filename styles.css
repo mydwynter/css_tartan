@@ -55,9 +55,9 @@ html{
     background: repeating-linear-gradient(
     -45deg,
     var(--black),
-    var(--black)3px,
-    var(--grey)3px,
-    var(--grey)6px
+    var(--black).15vw,
+    var(--grey).15vw,
+    var(--grey).3vw
   );
 }
 
@@ -72,9 +72,9 @@ html{
     background: repeating-linear-gradient(
     -45deg,
     var(--white),
-    var(--white)3px,
-    var(--grey)3px,
-    var(--grey)6px
+    var(--white).15vw,
+    var(--grey).15vw,
+    var(--grey).3vw
   );
 }
 
@@ -114,9 +114,9 @@ html{
     background: repeating-linear-gradient(
     -45deg,
     var(--purple),
-    var(--purple)3px,
-    var(--grey)3px,
-    var(--grey)6px
+    var(--purple).15vw,
+    var(--grey).15vw,
+    var(--grey).3vw
   );
 }
 
@@ -161,9 +161,9 @@ html{
     background: repeating-linear-gradient(
     -45deg,
     var(--white),
-    var(--white)3px,
-    var(--black)3px,
-    var(--black)6px
+    var(--white).15vw,
+    var(--black).15vw,
+    var(--black).3vw
   );
 }
 
@@ -193,9 +193,9 @@ html{
     background: repeating-linear-gradient(
     -45deg,
     var(--grey),
-    var(--grey)3px,
-    var(--black)3px,
-    var(--black)6px
+    var(--grey).15vw,
+    var(--black).15vw,
+    var(--black).3vw
   );
 }
 
@@ -215,9 +215,9 @@ html{
     background: repeating-linear-gradient(
     -45deg,
     var(--purple),
-    var(--purple)3px,
-    var(--black)3px,
-    var(--black)6px
+    var(--purple).15vw,
+    var(--black).15vw,
+    var(--black).3vw
   );
 }
 
@@ -237,9 +237,9 @@ html{
     background: repeating-linear-gradient(
     -45deg,
     var(--black),
-    var(--black)3px,
-    var(--purple)3px,
-    var(--purple)6px
+    var(--black).15vw,
+    var(--purple).15vw,
+    var(--purple).3vw
   );
 }
 
@@ -254,9 +254,9 @@ html{
     background: repeating-linear-gradient(
     -45deg,
     var(--white),
-    var(--white)3px,
-    var(--purple)3px,
-    var(--purple)6px
+    var(--white).15vw,
+    var(--purple).15vw,
+    var(--purple).3vw
   );
 }
 
@@ -276,9 +276,9 @@ html{
     background: repeating-linear-gradient(
     -45deg,
     var(--grey),
-    var(--grey)3px,
-    var(--purple)3px,
-    var(--purple)6px
+    var(--grey).15vw,
+    var(--purple).15vw,
+    var(--purple).3vw
   );
 }
 
@@ -308,9 +308,9 @@ html{
     background: repeating-linear-gradient(
     -45deg,
     var(--black),
-    var(--black)3px,
-    var(--grey)3px,
-    var(--grey)6px
+    var(--black).15vw,
+    var(--grey).15vw,
+    var(--grey).3vw
   );
 }
 
@@ -325,9 +325,9 @@ html{
     background: repeating-linear-gradient(
     -45deg,
     var(--white),
-    var(--white)3px,
-    var(--grey)3px,
-    var(--grey)6px
+    var(--white).15vw,
+    var(--grey).15vw,
+    var(--grey).3vw
   );
 }
 
@@ -342,9 +342,9 @@ html{
     background: repeating-linear-gradient(
     -45deg,
     var(--purple),
-    var(--purple)3px,
-    var(--grey)3px,
-    var(--grey)6px
+    var(--purple).15vw,
+    var(--grey).15vw,
+    var(--grey).3vw
   );
 }
 
@@ -364,9 +364,9 @@ html{
     background: repeating-linear-gradient(
     -45deg,
     var(--black),
-    var(--black)3px,
-    var(--white)3px,
-    var(--white)6px
+    var(--black).15vw,
+    var(--white).15vw,
+    var(--white).3vw
   );
 }
 
@@ -396,9 +396,9 @@ html{
     background: repeating-linear-gradient(
     -45deg,
     var(--grey),
-    var(--grey)3px,
-    var(--white)3px,
-    var(--white)6px
+    var(--grey).15vw,
+    var(--white).15vw,
+    var(--white).3vw
   );
 }
 
@@ -413,8 +413,8 @@ html{
     background: repeating-linear-gradient(
     -45deg,
     var(--purple),
-    var(--purple)3px,
-    var(--white)3px,
-    var(--white)6px
+    var(--purple).15vw,
+    var(--white).15vw,
+    var(--white).3vw
   );
 }
