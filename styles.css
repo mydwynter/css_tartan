@@ -55,9 +55,9 @@ html{
     background: repeating-linear-gradient(
     -45deg,
     var(--black),
-    var(--black).15vw,
-    var(--grey).15vw,
-    var(--grey).3vw
+    var(--black).15dvw,
+    var(--grey).15dvw,
+    var(--grey).3dvw
   );
 }
 
@@ -72,9 +72,9 @@ html{
     background: repeating-linear-gradient(
     -45deg,
     var(--white),
-    var(--white).15vw,
-    var(--grey).15vw,
-    var(--grey).3vw
+    var(--white).15dvw,
+    var(--grey).15dvw,
+    var(--grey).3dvw
   );
 }
 
@@ -114,9 +114,9 @@ html{
     background: repeating-linear-gradient(
     -45deg,
     var(--purple),
-    var(--purple).15vw,
-    var(--grey).15vw,
-    var(--grey).3vw
+    var(--purple).15dvw,
+    var(--grey).15dvw,
+    var(--grey).3dvw
   );
 }
 
@@ -161,9 +161,9 @@ html{
     background: repeating-linear-gradient(
     -45deg,
     var(--white),
-    var(--white).15vw,
-    var(--black).15vw,
-    var(--black).3vw
+    var(--white).15dvw,
+    var(--black).15dvw,
+    var(--black).3dvw
   );
 }
 
@@ -193,9 +193,9 @@ html{
     background: repeating-linear-gradient(
     -45deg,
     var(--grey),
-    var(--grey).15vw,
-    var(--black).15vw,
-    var(--black).3vw
+    var(--grey).15dvw,
+    var(--black).15dvw,
+    var(--black).3dvw
   );
 }
 
@@ -215,9 +215,9 @@ html{
     background: repeating-linear-gradient(
     -45deg,
     var(--purple),
-    var(--purple).15vw,
-    var(--black).15vw,
-    var(--black).3vw
+    var(--purple).15dvw,
+    var(--black).15dvw,
+    var(--black).3dvw
   );
 }
 
@@ -237,9 +237,9 @@ html{
     background: repeating-linear-gradient(
     -45deg,
     var(--black),
-    var(--black).15vw,
-    var(--purple).15vw,
-    var(--purple).3vw
+    var(--black).15dvw,
+    var(--purple).15dvw,
+    var(--purple).3dvw
   );
 }
 
@@ -254,9 +254,9 @@ html{
     background: repeating-linear-gradient(
     -45deg,
     var(--white),
-    var(--white).15vw,
-    var(--purple).15vw,
-    var(--purple).3vw
+    var(--white).15dvw,
+    var(--purple).15dvw,
+    var(--purple).3dvw
   );
 }
 
@@ -276,9 +276,9 @@ html{
     background: repeating-linear-gradient(
     -45deg,
     var(--grey),
-    var(--grey).15vw,
-    var(--purple).15vw,
-    var(--purple).3vw
+    var(--grey).15dvw,
+    var(--purple).15dvw,
+    var(--purple).3dvw
   );
 }
 
@@ -308,9 +308,9 @@ html{
     background: repeating-linear-gradient(
     -45deg,
     var(--black),
-    var(--black).15vw,
-    var(--grey).15vw,
-    var(--grey).3vw
+    var(--black).15dvw,
+    var(--grey).15dvw,
+    var(--grey).3dvw
   );
 }
 
@@ -325,9 +325,9 @@ html{
     background: repeating-linear-gradient(
     -45deg,
     var(--white),
-    var(--white).15vw,
-    var(--grey).15vw,
-    var(--grey).3vw
+    var(--white).15dvw,
+    var(--grey).15dvw,
+    var(--grey).3dvw
   );
 }
 
@@ -342,9 +342,9 @@ html{
     background: repeating-linear-gradient(
     -45deg,
     var(--purple),
-    var(--purple).15vw,
-    var(--grey).15vw,
-    var(--grey).3vw
+    var(--purple).15dvw,
+    var(--grey).15dvw,
+    var(--grey).3dvw
   );
 }
 
@@ -364,9 +364,9 @@ html{
     background: repeating-linear-gradient(
     -45deg,
     var(--black),
-    var(--black).15vw,
-    var(--white).15vw,
-    var(--white).3vw
+    var(--black).15dvw,
+    var(--white).15dvw,
+    var(--white).3dvw
   );
 }
 
@@ -396,9 +396,9 @@ html{
     background: repeating-linear-gradient(
     -45deg,
     var(--grey),
-    var(--grey).15vw,
-    var(--white).15vw,
-    var(--white).3vw
+    var(--grey).15dvw,
+    var(--white).15dvw,
+    var(--white).3dvw
   );
 }
 
@@ -413,8 +413,8 @@ html{
     background: repeating-linear-gradient(
     -45deg,
     var(--purple),
-    var(--purple).15vw,
-    var(--white).15vw,
-    var(--white).3vw
+    var(--purple).15dvw,
+    var(--white).15dvw,
+    var(--white).3dvw
   );
 }
